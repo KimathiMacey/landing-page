@@ -26,7 +26,7 @@ a:hover {
 .hero {
   height: 60vh;
   overflow-y: hidden;
-  background-image: url('../images/candy2.jpg'); 
+  background-image: url("../images/candy2.jpg"); 
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
